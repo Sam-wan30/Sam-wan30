@@ -1,6 +1,6 @@
 <!-- Profile Heading with Typing Animation -->
 <h1 align="center">Hi 👋, I'm Samiksha V. Wanjari</h1>
-<h3 align="center">🚀 Tech Explorer | 🎓 CSE Undergrad @ VIT | 📊 Market Research Analyst @ Finlatics | 🛠️ Full Stack & ML Enthusiast | 📁 Project Manager Certified</h3>
+<h3 align="center">🚀 Tech Explorer | 🎓 CSE Undergrad @ VIT | ⚙️ DS & ML @ IITg |📊 Market Research Analyst @ Finlatics | 🛠️ Full Stack & ML Enthusiast | 📁 Google Certified Project Manager</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=Frontend+Developer+in+Progress;Learning+DS+%26+ML+from+IITG;Google+Certified+Project+Manager+%7C+Agile+%7C+Jira+%7C+Asana;100DaysOfCode+in+Progress+%F0%9F%9A%80;Lifelong+Learner+%7C+Passionate+Learner+%7C+Tech+Explorer+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
